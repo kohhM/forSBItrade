@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\SBI SECURITIES\HYPERSBI2\HYPERSBI2.exe"
+password
